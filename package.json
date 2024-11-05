@@ -6,8 +6,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint","contentful-typescript-codegen": "contentful-typescript-codegen --output @types/generated/contentful.d.ts",
-    "types:contentful": "cf-content-types-generator --spaceId trrqgbwxcm1k --token CFPAT-VMWTR4rgkRBHcm-ZMFm-8mPP9Tiu3gwfTWsUjM5-RW4 -o src/contentful/types -X && prettier --write src/contentful/types"
+    "lint": "next lint","contentful-typescript-codegen": "contentful-typescript-codegen --output @types/generated/contentful.d.ts"
   },
   "dependencies": {
     "@contentful/rich-text-react-renderer": "^15.22.11",
