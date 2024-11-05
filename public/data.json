@@ -1,0 +1,49 @@
+{
+    "skills": [
+        {
+            "no": "01",
+            "title": "HTML & CSS",
+            "description": "Proficient in HTML5 and CSS3 for building the foundation of web pages."
+        },
+        {
+            "no": "02",
+            "title": "Javascript",
+            "description": "Experienced in JavaScript for adding dynamic behavior to web applications."
+        },
+        {
+            "no": "03",
+            "title": "React Js",
+            "description": "Skilled in React for building reusable UI components and managing complex state."
+        },
+        {
+            "no": "04",
+            "title": "Next Js",
+            "description": "Proficient in Next.js for building server-rendered React applications."
+        },
+        {
+            "no": "05",
+            "title": "Tailwind & Bootstrap",
+            "description": "Experienced in Tailwind CSS for rapid UI development with utility-first classes."
+        },
+        {
+            "no": "06",
+            "title": "Git & Github",
+            "description": "Proficient in Git for version control and collaborating on projects using GitHub."
+        },
+        {
+            "no": "07",
+            "title": "CMS",
+            "description": "Experienced in using headless CMS like Contentful for managing content."
+        },
+        {
+            "no": "08",
+            "title": "Vercel & Netlify",
+            "description": "Proficient in deploying web applications using Vercel and Netlify."
+        },
+        {
+            "no": "09",
+            "title": "Figma",
+            "description": "Experienced making wireframes and ui design with Figma"
+        }
+    ]
+}
